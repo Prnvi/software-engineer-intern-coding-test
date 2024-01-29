@@ -1,0 +1,18 @@
+{
+  "name": "coding-test-coordinates-api",
+  "version": "1.0.0",
+  "description": "A DataCamp coding test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --watchAll"
+  },
+  "dependencies": {
+    "@koa/router": "^12.0.1",
+    "koa": "^2.15.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.3"
+  }
+}
