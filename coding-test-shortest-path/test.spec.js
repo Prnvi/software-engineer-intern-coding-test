@@ -1,4 +1,4 @@
-const { main } = require('./shortest-path');
+const { main } = require('../coding-test-coordinates-api/index');
 
 describe('Route Calculation Application', () => {
     describe('Main Function', () => {
